@@ -4,7 +4,7 @@
 
 ## Currículo Leonardo Mehler Portásio
 
-[curriculo](https://LeoPortasio@github.io)
+[currículo](https://leoportasio.github.io)
 
 [github](https://github.com/LeoPortasio)
 
